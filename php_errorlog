@@ -1,0 +1,97 @@
+[01-Jul-2014 20:38:21] PHP Fatal error:  Class 'header' not found in /home/bsadkhin/public_html/calendar/new/index.php on line 7
+[01-Jul-2014 20:39:04] PHP Fatal error:  Class 'header' not found in /home/bsadkhin/public_html/calendar/new/index.php on line 7
+[01-Jul-2014 20:39:04] PHP Fatal error:  Class 'header' not found in /home/bsadkhin/public_html/calendar/new/index.php on line 7
+[01-Jul-2014 20:39:31] PHP Fatal error:  Class 'header' not found in /home/bsadkhin/public_html/calendar/new/index.php on line 7
+[01-Jul-2014 20:39:32] PHP Fatal error:  Class 'header' not found in /home/bsadkhin/public_html/calendar/new/index.php on line 7
+[01-Jul-2014 20:39:33] PHP Fatal error:  Class 'header' not found in /home/bsadkhin/public_html/calendar/new/index.php on line 7
+[01-Jul-2014 20:39:33] PHP Fatal error:  Class 'header' not found in /home/bsadkhin/public_html/calendar/new/index.php on line 7
+[01-Jul-2014 20:40:26] PHP Fatal error:  Class 'header' not found in /home/bsadkhin/public_html/calendar/new/index.php on line 7
+[01-Jul-2014 20:40:27] PHP Fatal error:  Class 'header' not found in /home/bsadkhin/public_html/calendar/new/index.php on line 7
+[01-Jul-2014 20:46:13] PHP Fatal error:  Class 'header' not found in /home/bsadkhin/public_html/calendar/new/index.php on line 7
+[01-Jul-2014 20:46:49] PHP Fatal error:  Class 'header' not found in /home/bsadkhin/public_html/calendar/new/index.php on line 7
+[01-Jul-2014 20:46:50] PHP Fatal error:  Class 'header' not found in /home/bsadkhin/public_html/calendar/new/index.php on line 7
+[01-Jul-2014 20:46:50] PHP Fatal error:  Class 'header' not found in /home/bsadkhin/public_html/calendar/new/index.php on line 7
+[01-Jul-2014 20:46:50] PHP Fatal error:  Class 'header' not found in /home/bsadkhin/public_html/calendar/new/index.php on line 7
+[01-Jul-2014 20:50:33] PHP Fatal error:  Function name must be a string in /home/bsadkhin/public_html/calendar/new/include/cuhappyhour.php on line 6
+[01-Jul-2014 20:52:49] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/bsadkhin/public_html/calendar/new/include/header.class.inc.php on line 15
+[01-Jul-2014 20:53:31] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/bsadkhin/public_html/calendar/new/include/header.class.inc.php on line 15
+[01-Jul-2014 20:53:38] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING in /home/bsadkhin/public_html/calendar/new/include/header.class.inc.php on line 15
+[01-Jul-2014 20:54:41] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING in /home/bsadkhin/public_html/calendar/new/include/header.class.inc.php on line 15
+[01-Jul-2014 20:54:41] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING in /home/bsadkhin/public_html/calendar/new/include/header.class.inc.php on line 15
+[02-Jul-2014 18:39:26] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/bsadkhin/public_html/calendar/new/index.php on line 12
+[02-Jul-2014 18:39:41] PHP Parse error:  syntax error, unexpected '{' in /home/bsadkhin/public_html/calendar/new/index.php on line 12
+[02-Jul-2014 18:39:55] PHP Parse error:  syntax error, unexpected '{' in /home/bsadkhin/public_html/calendar/new/index.php on line 12
+[02-Jul-2014 18:40:09] PHP Parse error:  syntax error, unexpected T_PAAMAYIM_NEKUDOTAYIM, expecting ',' or ';' in /home/bsadkhin/public_html/calendar/new/calendar.php on line 3
+[02-Jul-2014 18:40:38] PHP Parse error:  syntax error, unexpected T_PAAMAYIM_NEKUDOTAYIM, expecting ',' or ';' in /home/bsadkhin/public_html/calendar/new/calendar.php on line 3
+[02-Jul-2014 18:40:39] PHP Parse error:  syntax error, unexpected T_PAAMAYIM_NEKUDOTAYIM, expecting ',' or ';' in /home/bsadkhin/public_html/calendar/new/calendar.php on line 3
+[02-Jul-2014 18:41:11] PHP Parse error:  syntax error, unexpected T_PAAMAYIM_NEKUDOTAYIM, expecting ',' or ';' in /home/bsadkhin/public_html/calendar/new/calendar.php on line 3
+[02-Jul-2014 18:41:12] PHP Parse error:  syntax error, unexpected T_PAAMAYIM_NEKUDOTAYIM, expecting ',' or ';' in /home/bsadkhin/public_html/calendar/new/calendar.php on line 3
+[02-Jul-2014 18:41:29] PHP Parse error:  syntax error, unexpected T_PAAMAYIM_NEKUDOTAYIM, expecting ',' or ';' in /home/bsadkhin/public_html/calendar/new/calendar.php on line 3
+[02-Jul-2014 18:41:29] PHP Parse error:  syntax error, unexpected T_PAAMAYIM_NEKUDOTAYIM, expecting ',' or ';' in /home/bsadkhin/public_html/calendar/new/calendar.php on line 3
+[02-Jul-2014 18:41:33] PHP Parse error:  syntax error, unexpected T_PAAMAYIM_NEKUDOTAYIM, expecting ',' or ';' in /home/bsadkhin/public_html/calendar/new/calendar.php on line 3
+[02-Jul-2014 18:41:34] PHP Parse error:  syntax error, unexpected T_PAAMAYIM_NEKUDOTAYIM, expecting ',' or ';' in /home/bsadkhin/public_html/calendar/new/calendar.php on line 3
+[02-Jul-2014 18:41:42] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 6
+[02-Jul-2014 18:41:42] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 6
+[02-Jul-2014 18:41:43] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 6
+[02-Jul-2014 18:42:34] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 6
+[02-Jul-2014 18:42:59] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 6
+[02-Jul-2014 18:43:00] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 6
+[02-Jul-2014 18:43:15] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 7
+[02-Jul-2014 18:43:15] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 7
+[02-Jul-2014 18:43:22] PHP Parse error:  syntax error, unexpected T_FOREACH, expecting T_FUNCTION in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 15
+[02-Jul-2014 18:43:23] PHP Parse error:  syntax error, unexpected T_FOREACH, expecting T_FUNCTION in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 15
+[02-Jul-2014 18:43:34] PHP Parse error:  syntax error, unexpected T_FOREACH, expecting T_FUNCTION in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 15
+[02-Jul-2014 18:43:51] PHP Fatal error:  Call to undefined method calendar::getTable() in /home/bsadkhin/public_html/calendar/new/calendar.php on line 3
+[02-Jul-2014 18:44:02] PHP Fatal error:  Access to undeclared static property: calendar::$table in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 22
+[02-Jul-2014 18:44:14] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 22
+[02-Jul-2014 18:44:59] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 25
+[02-Jul-2014 18:46:36] PHP Parse error:  syntax error, unexpected T_VAR, expecting T_VARIABLE in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 6
+[02-Jul-2014 18:46:52] PHP Parse error:  syntax error, unexpected T_VAR, expecting T_VARIABLE in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 13
+[02-Jul-2014 18:46:53] PHP Parse error:  syntax error, unexpected T_VAR, expecting T_VARIABLE in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 13
+[02-Jul-2014 18:48:41] PHP Parse error:  syntax error, unexpected T_FOREACH, expecting T_FUNCTION in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 11
+[02-Jul-2014 18:48:50] PHP Parse error:  syntax error, unexpected T_FOR, expecting T_FUNCTION in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 11
+[02-Jul-2014 18:48:59] PHP Parse error:  syntax error, unexpected T_FOREACH, expecting T_FUNCTION in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 11
+[02-Jul-2014 18:50:05] PHP Parse error:  syntax error, unexpected T_FOREACH, expecting T_FUNCTION in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 12
+[02-Jul-2014 18:50:14] PHP Parse error:  syntax error, unexpected T_FOREACH, expecting T_FUNCTION in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 12
+[02-Jul-2014 18:51:01] PHP Parse error:  syntax error, unexpected T_FOREACH, expecting T_FUNCTION in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 12
+[02-Jul-2014 18:51:07] PHP Warning:  include_once(../conf/settings.inc.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/bsadkhin/public_html/calendar/new/include/cuhappyhour.php on line 3
+[02-Jul-2014 18:51:07] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '../conf/settings.inc.php' for inclusion (include_path='.:/usr/local/php52/pear:.:include') in /home/bsadkhin/public_html/calendar/new/include/cuhappyhour.php on line 3
+[02-Jul-2014 18:51:07] PHP Parse error:  syntax error, unexpected T_FOREACH, expecting T_FUNCTION in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 12
+[02-Jul-2014 18:52:44] PHP Parse error:  syntax error, unexpected T_FOREACH, expecting T_FUNCTION in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 12
+[02-Jul-2014 18:53:46] PHP Parse error:  syntax error, unexpected T_FOREACH, expecting T_FUNCTION in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 12
+[02-Jul-2014 18:54:53] PHP Parse error:  syntax error, unexpected T_FOREACH, expecting T_FUNCTION in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 12
+[02-Jul-2014 18:54:54] PHP Parse error:  syntax error, unexpected T_FOREACH, expecting T_FUNCTION in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 12
+[02-Jul-2014 18:55:07] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 16
+[02-Jul-2014 18:55:17] PHP Parse error:  syntax error, unexpected T_FOREACH, expecting T_FUNCTION in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 17
+[02-Jul-2014 18:56:13] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 22
+[02-Jul-2014 18:56:14] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 22
+[02-Jul-2014 18:58:11] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 30
+[02-Jul-2014 18:58:43] PHP Warning:  jddayofweek() expects at least 1 parameter, 0 given in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 28
+[02-Jul-2014 18:59:19] PHP Parse error:  syntax error, unexpected T_FOREACH, expecting T_FUNCTION in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 11
+[02-Jul-2014 18:59:35] PHP Parse error:  syntax error, unexpected '}' in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 30
+[02-Jul-2014 18:59:43] PHP Notice:  Undefined variable: arr in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 28
+[02-Jul-2014 18:59:43] PHP Warning:  Invalid argument supplied for foreach() in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 28
+[02-Jul-2014 19:00:14] PHP Notice:  Undefined variable: day in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 30
+[02-Jul-2014 19:00:14] PHP Notice:  Undefined variable: table in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 30
+[02-Jul-2014 19:00:14] PHP Notice:  Undefined variable: day in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 30
+[02-Jul-2014 19:00:14] PHP Notice:  Undefined variable: day in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 30
+[02-Jul-2014 19:00:14] PHP Notice:  Undefined variable: day in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 30
+[02-Jul-2014 19:00:14] PHP Notice:  Undefined variable: day in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 30
+[02-Jul-2014 19:00:14] PHP Notice:  Undefined variable: day in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 30
+[02-Jul-2014 19:00:24] PHP Notice:  Undefined variable: table in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 30
+[02-Jul-2014 19:13:55] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 13
+[02-Jul-2014 19:14:25] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 13
+[02-Jul-2014 19:14:39] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 13
+[02-Jul-2014 19:15:03] PHP Notice:  Undefined offset:  0 in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 29
+[02-Jul-2014 19:15:03] PHP Notice:  Undefined offset:  1 in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 29
+[02-Jul-2014 19:15:03] PHP Notice:  Undefined offset:  2 in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 29
+[02-Jul-2014 19:15:03] PHP Notice:  Undefined offset:  3 in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 29
+[02-Jul-2014 19:15:03] PHP Notice:  Undefined offset:  4 in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 29
+[02-Jul-2014 19:15:03] PHP Notice:  Undefined offset:  5 in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 29
+[02-Jul-2014 19:15:03] PHP Notice:  Undefined offset:  6 in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 29
+[02-Jul-2014 19:15:41] PHP Notice:  Undefined offset:  0 in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 30
+[02-Jul-2014 19:17:12] PHP Parse error:  syntax error, unexpected '{', expecting ')' in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 30
+[02-Jul-2014 19:43:15] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/bsadkhin/public_html/calendar/new_site/include/calendar.class.inc.php on line 13
+[02-Jul-2014 19:44:32] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/bsadkhin/public_html/calendar/new_site/include/calendar.class.inc.php on line 13
+[02-Jul-2014 19:44:42] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/bsadkhin/public_html/calendar/new_site/include/calendar.class.inc.php on line 50
+[02-Jul-2014 19:44:43] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/bsadkhin/public_html/calendar/new_site/include/calendar.class.inc.php on line 50
