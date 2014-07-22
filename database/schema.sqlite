@@ -1,0 +1,24 @@
+CREATE TABLE venues(
+venue_id INTEGER,
+venue_name TEXT,
+venue_address TEXT,
+venue_geo TEXT, 
+venue_location TEXT);
+
+create table deals(
+deal_id INTEGER,
+venue_id INTEGER,
+deal_name TEXT,
+deal_day INTEGER,
+deal_start TEXT,
+deal_end TEXT,
+deal_allday TEXT,
+deal_description TEXT,
+deal_types TEXT,
+deal_edible INTEGER)
+
+create table deal_types(
+dt_id INTEGER,
+dt_p
+
+)

@@ -6,10 +6,10 @@ class header{
 		<table style='border:solid'>
 
 		<tr>
-			<td>Deals</td>
-			<td>Reviews</td>
-			<td>Events</td>
-			<td>About</td>
+			<td><a href='?'>Deals Calendar</a></td>
+			<td><a href='?p=food_specials'>Favorite food deals</td>
+			<td><a href='?p=reviews'>Reviews<a></td>
+			<td><a href='?p=about'>About</td>
 		</tr>
 		</table>
 		";
