@@ -1,0 +1,6 @@
+[01-Jul-2014 23:48:34 America/New_York] PHP Warning:  include(includes/cuhappyhour.php): failed to open stream: No such file or directory in /home/bsadkhin/public_html/calendar/new/index.php on line 2
+[01-Jul-2014 23:48:34 America/New_York] PHP Warning:  include(includes/cuhappyhour.php): failed to open stream: No such file or directory in /home/bsadkhin/public_html/calendar/new/index.php on line 2
+[01-Jul-2014 23:48:34 America/New_York] PHP Warning:  include(): Failed opening 'includes/cuhappyhour.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bsadkhin/public_html/calendar/new/index.php on line 2
+[01-Jul-2014 23:48:34 America/New_York] PHP Fatal error:  Class 'header' not found in /home/bsadkhin/public_html/calendar/new/index.php on line 7
+[02-Jul-2014 21:40:18 America/New_York] PHP Fatal error:  Class 'calendar' not found in /home/bsadkhin/public_html/calendar/new/calendar.php on line 2
+[02-Jul-2014 21:42:41 America/New_York] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/bsadkhin/public_html/calendar/new/include/calendar.class.inc.php on line 6
