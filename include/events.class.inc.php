@@ -26,17 +26,17 @@ class events {
 
     public function getEventsForDay($day){
 
-            if(isset($this->days[$day])){
-                $idsForDay = $this->days[$day];
-            }
-            else{
-                return;
-            }
-            $eventsForDay = array();
-            foreach($this->days[$day] as $eventID){
-                $eventsForDay[] = $this->events[$eventID];
-            }
-            return $eventsForDay; #okay
+        if(isset($this->days[$day])){
+            $idsForDay = $this->days[$day];
+        }
+        else{
+            return;
+        }
+        $eventsForDay = array();
+        foreach($this->days[$day] as $eventID){
+            $eventsForDay[] = $this->events[$eventID];
+        }
+        return $eventsForDay; #okay
     }
 }
 
@@ -70,7 +70,7 @@ class event {
     {
         $this->day = $day;
     }
-    
+
     private $id;
 
     /**
@@ -191,9 +191,9 @@ class event {
     private $tags;
     private $description;
     private $type;
-    
-    
-    
+
+
+
 
 }
 

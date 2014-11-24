@@ -1,8 +1,8 @@
 <?php
 
 class header{
-	private static $table =
-		"
+    private static $table =
+        "
 		<table style='border:solid'>
 
 		<tr>
@@ -14,15 +14,15 @@ class header{
 		</table>
 		";
 
-	private static $logo = "<img src='media/logo.jpg'>";
+    private static $logo = "<img src='media/logo.jpg'>";
 
 
-	function getHeader(){
-		$defaultHeader = self::$logo;
-		$defaultHeader .= self::$table;
+    function getHeader(){
+        $defaultHeader = self::$logo;
+        $defaultHeader .= self::$table;
 
-		return $defaultHeader;
+        return $defaultHeader;
 
-	}
+    }
 
 }

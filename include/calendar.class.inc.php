@@ -61,7 +61,6 @@ class calendar{
 		$html= "";
 		foreach(range(0,6) as $day){
 			$html .= $this->createDayHTML($day);
-			echo "Retreieving {$day}<br>";
 		}
 		return "<tr>$html</tr>";
 	}
