@@ -33,7 +33,7 @@ class events {
             foreach($this->days[$day] as $eventID){
                 $eventsForDay[] = $this->events[$eventID];
             }
-            return $eventsForDay;
+            return $eventsForDay; #okay
     }
 }
 
