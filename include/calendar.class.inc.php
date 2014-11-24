@@ -70,6 +70,9 @@ class calendar{
 	private function createDayHTML($day){
 		$todaysEvents = $this->E->getEventsForDay($day);
 		$html = "";
+        if(!isset($todaysEvents)){
+            return "<td></td>";
+        }
         foreach($todaysEvents as $event) {
             $html .= "Event" . $this->createEventHTML($event);
         }
