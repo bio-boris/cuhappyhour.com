@@ -83,9 +83,9 @@ class calendar{
 	}
 	
 	private function createEventHTML($event){
-		    $venue_name = $event->getVenueName();
+		    $venue_name = $event->getVenue();
 			$title = $event->getTitle();
-			$location = $event->getTime();
+
 			
 			$html = "<span>Title=$title</span>";
 			echo "Created event for $day\n";

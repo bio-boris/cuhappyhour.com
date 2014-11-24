@@ -2,44 +2,184 @@
 
 class events {
 
-    private $events = array();
-    private $days =array();
+    private $events;
+    private $days;
 
     public function populateEvents(){
-        
+
+        //$rows = getEventsFromDataBase();
         //Foreach database row
-        $e = new event(0,"50% off wings",0);
-        $e2 = new event(1,"Free Chicken",1);
-        
-        
-        $this->events = $events;
-        $this->days = $days;
+        $this->events[] = new event(0,"25c wings @A",0);
+        $this->events[] = new event(1,"50c wings @B",0);
+        $this->events[] = new event(2,"50c wings @C",2);
+
+        $this->days[0] = array(0,1);
+        $this->days[2] = array(2);
+    }
+
+    private function getEventsFromDataBase(){
+
 
     }
 
-    public function getDayForId($id){
-        return $this->event[$id]['day'];
-    }
+
 
     public function getEventsForDay($day){
             $idsForDay = $this->days[$day];
             if(! isset($idsForDay)){
-                return;
+                return null;
             }
             $eventsForDay = array();
             foreach($this->days[$day] as $eventID){
-                $eventsForDay[$eventID] = $this->events[$eventID]; 
+                $eventsForDay[] = $this->events[$eventID];
             }
-        
-        
-        
-        return $eventsForDay;
+            return $eventsForDay;
     }
 }
 
 class event {
+
+    function __construct($id,$name,$day){
+        $this->createEvent($id,$name,$day);
+    }
+
+
+    public function createEvent($id,$name,$day){
+        $this->setDay($day);
+        $this->setId($id);
+        $this->setTitle($name);
+    }
+
+
+    /**
+     * @return mixed
+     */
+    public function getDay()
+    {
+        return $this->day;
+    }
+
+    /**
+     * @param mixed $day
+     */
+    public function setDay($day)
+    {
+        $this->day = $day;
+    }
     
     private $id;
+
+    /**
+     * @return mixed
+     */
+    public function getId()
+    {
+        return $this->id;
+    }
+
+    /**
+     * @param mixed $id
+     */
+    public function setId($id)
+    {
+        $this->id = $id;
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getLocation()
+    {
+        return $this->location;
+    }
+
+    /**
+     * @param mixed $location
+     */
+    public function setLocation($location)
+    {
+        $this->location = $location;
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getTags()
+    {
+        return $this->tags;
+    }
+
+    /**
+     * @param mixed $tags
+     */
+    public function setTags($tags)
+    {
+        $this->tags = $tags;
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getTitle()
+    {
+        return $this->title;
+    }
+
+    /**
+     * @param mixed $title
+     */
+    public function setTitle($title)
+    {
+        $this->title = $title;
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getType()
+    {
+        return $this->type;
+    }
+
+    /**
+     * @param mixed $type
+     */
+    public function setType($type)
+    {
+        $this->type = $type;
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getVenue()
+    {
+        return $this->venue;
+    }
+
+    /**
+     * @param mixed $venue
+     */
+    public function setVenue($venue)
+    {
+        $this->venue = $venue;
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getDescription()
+    {
+        return $this->description;
+    }
+
+    /**
+     * @param mixed $description
+     */
+    public function setDescription($description)
+    {
+        $this->description = $description;
+    }
     private $title;
     private $venue;
     private $location;
@@ -50,37 +190,7 @@ class event {
     
     
     
-    
-//    function __construct($id,$title,$day) {
-//        $this->setID($id);
-//        $this->setTitle($title);
-//        $this->setDay($day);
-//		
-//	}
-//    
-//    public function setTitle($title){
-//        $this->event['title'] = $title;
-//    }
-//    
-//    
-//    public function getVenueName($eventID){
-//        return $this->'name';
-//    }
-//
-//    public function getTitle($eventID){
-//
-//    }
-//
-//    public function getDays($eventID){
-//    
-//    }
-//    public function getDescription($eventID){
-//    
-//    }
-//    public function getTime($eventID){
-//        
-//
-//    }
+
 }
 
 
