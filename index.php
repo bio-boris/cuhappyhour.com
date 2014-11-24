@@ -12,9 +12,7 @@ include "include/cuhappyhour.php";
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-    <?php
-    echo header::getHeader();
-    ?>
+
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
 
@@ -25,7 +23,12 @@ include "include/cuhappyhour.php";
 
 </head>
 <body>
+
 <div class="container">
+
+    <?php
+    echo header::getHeader();
+    ?>
     <?php
     include "calendar.php";
     ?>
