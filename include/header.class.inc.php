@@ -9,7 +9,7 @@ class header{
 			<td>Deals</td>
 			<td>Reviews</td>
 			<td>Events</td>
-			<td>About</td>
+			<td>About Us</td>
 		</tr>
 		</table>
 		";
