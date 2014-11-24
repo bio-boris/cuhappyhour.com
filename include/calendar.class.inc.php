@@ -69,26 +69,18 @@ class calendar{
 	
 	private function createDayHTML($day){
 		$todaysEvents = $this->E->getEventsForDay($day);
-		$html = "No events for ${day}";
-		
-		
-		print "Today's Events are" ;
-		print_r($todaysEvents);
-		
-		foreach($todaysEvents as $event){
-			$html .=  "Event" . $this->createEventHTML($event);
-			echo "Created event for $day\n";
-		}
+		$html = "";
+        foreach($todaysEvents as $event) {
+            $html .= "Event" . $this->createEventHTML($event);
+        }
 		return "<td>$html</td>";
 	}
 	
 	private function createEventHTML($event){
 		    $venue_name = $event->getVenue();
 			$title = $event->getTitle();
+			$html = "<span>{$title} @ {$venue_name}</span><br><br>";
 
-			
-			$html = "<span>Title=$title</span>";
-			echo "Created event for $day\n";
 			return $html;
 			
 	}

@@ -9,9 +9,9 @@ class events {
 
         //$rows = getEventsFromDataBase();
         //Foreach database row
-        $this->events[] = new event(0,"25c wings @A",0);
-        $this->events[] = new event(1,"50c wings @B",0);
-        $this->events[] = new event(2,"50c wings @C",2);
+        $this->events[] = new event(0,"25c wings @A",0,"BUffalo");
+        $this->events[] = new event(1,"50c wings @B",0,"Bob");
+        $this->events[] = new event(2,"50c wings @C",2,"Boltini");
 
         $this->days[0] = array(0,1);
         $this->days[2] = array(2);
@@ -39,15 +39,16 @@ class events {
 
 class event {
 
-    function __construct($id,$name,$day){
-        $this->createEvent($id,$name,$day);
+    function __construct($id,$name,$day,$venue){
+        $this->createEvent($id,$name,$day,$venue);
     }
 
 
-    public function createEvent($id,$name,$day){
+    public function createEvent($id,$name,$day,$venue){
         $this->setDay($day);
         $this->setId($id);
         $this->setTitle($name);
+        $this->setVenue($venue);
     }
 
 
