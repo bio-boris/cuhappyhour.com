@@ -3,7 +3,7 @@
 class header{
     private static $table =
         "
-		<table style='border:solid'>
+		<table style='border:solid' class='table'>
 
 		<tr>
 			<td>Deals</td>
