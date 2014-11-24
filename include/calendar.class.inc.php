@@ -31,7 +31,7 @@ class calendar{
 		$days[6] = 'sunday';	
 		$this->days = $days;
 
-		$table = "<table class='main_calendar table' ><tr>";
+		$table = "<table class='main_calendar table table-bordered table-hover table-condensed ' ><tr>";
 
 		foreach ($this->day_integers as $day) {
 			$table .= "<th>" . ucfirst($this->days[$day]) . "</th>"; 
