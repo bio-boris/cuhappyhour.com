@@ -22,12 +22,15 @@ include "include/cuhappyhour.php";
     echo header::getHeader();
     ?>
     <?php
-    if(isset($p)){
+    if(isset($_GET['p'])){
         $p = $_GET['p'];
-		include "include/$p.php";
         if(!file_exists("include/$p.php")){
             include "include/$error.php";
-        };
+        }
+        else{
+            include "include/$p.php";
+        }
+
     }
 	else{
     		include "calendar.php";
