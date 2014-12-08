@@ -22,6 +22,7 @@ include "include/cuhappyhour.php";
     echo header::getHeader();
     ?>
     <?php
+    echo "WHAT";
     if(isset($_GET['p'])){
           print "p $p included";
         $p = $_GET['p'];
