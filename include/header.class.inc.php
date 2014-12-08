@@ -17,7 +17,7 @@ class header{
     private static $logo = "<img src='media/logo.jpg'>";
 
 
-    function getHeader(){
+    static function getHeader(){
         $defaultHeader = self::$logo;
         $defaultHeader .= self::$table;
 

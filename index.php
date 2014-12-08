@@ -22,8 +22,8 @@ include "include/cuhappyhour.php";
     echo header::getHeader();
     ?>
     <?php
-    $p = $_GET['p'];
     if(isset($p)){
+        $p = $_GET['p'];
 		include "include/$p.php";
         if(!file_exists("include/$p.php")){
             include "include/$error.php";
