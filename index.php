@@ -30,7 +30,17 @@ include "include/cuhappyhour.php";
     echo header::getHeader();
     ?>
     <?php
-    include "calendar.php";
+
+    $p = $_GET['p'];
+    if(isset($p)){
+		include "$p.php";
+		echo "Included $p.php";	
+
+    }
+	else{
+		echo "Did not include";
+    		include "calendar.php";
+	}
     ?>
 </div>
 
