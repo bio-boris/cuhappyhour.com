@@ -29,6 +29,7 @@ include "include/cuhappyhour.php";
             include "include/$error.php";
         }
         else{
+            print "Opening $p.php";
             include "include/$p.php";
         }
 
