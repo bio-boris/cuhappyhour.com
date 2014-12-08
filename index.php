@@ -10,35 +10,26 @@ include "include/cuhappyhour.php";
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
-
-
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
-
     <!-- Optional theme -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
-
-
-
 </head>
 <body>
 
 <div class="container">
-
     <?php
     echo header::getHeader();
     ?>
     <?php
-
     $p = $_GET['p'];
     if(isset($p)){
-		include "$p.php";
-		echo "Included $p.php";	
-
+		include "include/$p.php";
+        if(!file_exists("include/$p.php")){
+            include "include/$error.php";
+        };
     }
 	else{
-		echo "Did not include";
     		include "calendar.php";
 	}
     ?>
