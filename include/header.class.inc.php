@@ -6,10 +6,10 @@ class header{
 		<table style='border:solid' class='table'>
 
 		<tr>
-			<td>Deals</td>
-			<td>Reviews</td>
-			<td>Events</td>
-			<td>About Us</td>
+			<td><a href='index.php''>Deals<a></td>
+		<!--	<td><a href='index.php?=reviews'>Reviews</a></td> -->
+		<!--	<td><a href='index.php?=events'>Events</a></td> -->
+			<td><a href='index.php?=about'>About Us</a></td>
 		</tr>
 		</table>
 		";
