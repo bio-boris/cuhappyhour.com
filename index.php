@@ -24,13 +24,12 @@ include "include/cuhappyhour.php";
     <?php
 
     if(isset($_GET['p'])){
-        $p = $_GET['p'] . "php";
-        if(!file_exists("pages/$p")){
+        $p = "pages/{$_GET['p']}.php";
+        if(!file_exists("$p")){
             include "pages/error.php";
         }
         else{
-            print "Opening $p";
-            include "pages/$p";
+            include "$p";
         }
 
     }
