@@ -1,4 +1,3 @@
 <?php
-	$db = new db;
-	$db->showTables();
+	echo "<img src='media/about.jpg'></img>";
 ?>
