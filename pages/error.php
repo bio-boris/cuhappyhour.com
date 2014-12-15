@@ -1,7 +1,7 @@
 <?php
 
-echo "	<p>Sorry! This page does not exist yet. </p>
-	<img src='$DOCUMENT_ROOT/media/error.jpg'/> ";
+echo "	<p>Sorry! This page ({$_GET['p']}.php) does not exist yet. </p>
+	<img src='media/error.jpg'/> ";
 ?>
 
 

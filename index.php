@@ -25,7 +25,7 @@ include "include/cuhappyhour.php";
 
     if(isset($_GET['p'])){
         $p = $_GET['p'] . "php";
-        if(!file_exists("include/$p")){
+        if(!file_exists("pages/$p")){
             include "pages/error.php";
         }
         else{
