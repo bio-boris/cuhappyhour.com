@@ -36,8 +36,7 @@ class db{
             $stmt->bindParam(':venue_id', $venue_id);
             $stmt->execute();
             $result = $stmt->fetchAll();
-            return "BOB";
-          #  return $result[0]['venue_name'];
+             return $result[0]['venue_name'];
         }
         catch(PDOException $e)
         {
