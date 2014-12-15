@@ -17,6 +17,7 @@ class events {
         #  $this->ids_for_day[2] = array(2);
 
         for($day =0 ; $day<7; $day++){
+            print "Deals for $day <br>";
             $deals = db::getDealsByDay($day);
             foreach($deals as $sql_row){
                 if(!isset($sql_row)){
@@ -28,7 +29,7 @@ class events {
                 $this->ids_for_day[$day][] = $id;
             }
 
-            print "Deals for $day = $deals <br>";
+
 
         }
 
@@ -72,7 +73,7 @@ class events {
             $idsForDay = $this->ids_for_day[$day];
         }
         else{
-            return;
+            return null;
         }
         $eventsForDay = array();
         foreach($this->ids_for_day[$day] as $eventID){
