@@ -23,7 +23,7 @@ class events {
                 #$description = $deals[1];
                 $name = $deals[1];
                 $venue = $deals[2];
-                print "Creating deal for day $day for id[$id] name[$name] venue[$venue]<br>";
+                print "Creating deal for day $day for id[$id] name[$name] venue[$venue]<br> ";
                 $this->events[] = new event($id,$name,$day,$venue);
                 $this->days[$day][] = $id;
             }
