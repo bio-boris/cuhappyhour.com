@@ -15,6 +15,22 @@ class events {
 
         $this->days[0] = array(0,1);
         $this->days[2] = array(2);
+
+        for($day =0 ; $day<=7; $day++){
+            $deals = getDealsByDay($day);
+            foreach($deals as $deal){
+                $id = $deal[0];
+                #$description = $deals[1];
+                $name = $deals[1];
+                $venue = $deals[2];
+                $this->events[] = new event($id,$name,$day,$venue);
+                $this->days[$day][] = $id;
+            }
+
+            print "Deals for $day = $deals <br>";
+
+        }
+
     }
 
     private function getEventsFromDataBase(){
