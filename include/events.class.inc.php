@@ -20,7 +20,7 @@ class events {
             $deals = db::getDealsByDay($day);
 
             foreach($deals as $sql_row){
-                if(!isset($sql_rowl)){
+                if(!isset($sql_row)){
                     continue;
                 }
                 $id = $sql_row['deal_id'];
