@@ -4,7 +4,7 @@ class events {
 
     private $venue;
     private $events;
-    private $ids_for_day;
+    private $events_today;
 
     public function populateEvents(){
 
@@ -28,13 +28,14 @@ class events {
                 $id = $sql_row['deal_id'];
                 $e= $this->createEvent($id,$day,$sql_row);
                 $events[] = $e;
-                $ids[] = $id;
+                array_push($ids[$day], $id);
 
                print "Added id[$id] to events for day $day <br>";
             }
 
             $this->events[] = $events;
-            $this->ids_for_day[] = $ids;
+
+
             print "<br>Day $day now has " . print_r($ids) . "<br>";
             print "<hr><br>";
 
@@ -79,12 +80,12 @@ class events {
 
     public function getEventsForDay($day){
 
-        if(!isset($this->ids_for_day[$day])){
+        if(!isset($this->events_today[$day])){
             return null;
         }
 
         $eventsForDay = array();
-        foreach($this->ids_for_day[$day] as $key=>$value){
+        foreach($this->events_today[$day] as $key=>$value){
             $eventsForDay[] = $this->events[$key];
         }
         return $eventsForDay; #okay
