@@ -49,6 +49,7 @@ class events {
             $e->setDescription($row['deal_description']);
         }
 
+        print "Created event with id[$id] day[$day] venue[{$row['venue_id']}] name[{$row['deal_title']}]<br>";
         return $e;
 
     }
