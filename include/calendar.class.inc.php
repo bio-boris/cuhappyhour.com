@@ -71,7 +71,8 @@ class calendar{
 		$todaysEvents = $this->E->getEventsForDay($day);
 		$html = "";
 
-        foreach($todaysEvents as $event) {
+        for($i =0; $i< count($todaysEvents); $i++){
+            $event = $todaysEvents[$i];
             if(get_class($event) == "event"){
                 $html .= "Event" . $this->createEventHTML($event);
             }

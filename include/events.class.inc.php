@@ -93,8 +93,8 @@ class events {
         }
 
         $eventsForDay = array();
-        foreach($this->events_today[$day] as $key=>$value){
-            $eventsForDay[] = $this->events[$key];
+        foreach($this->events_today[$day] as $id){
+            $eventsForDay[$id] = $this->events[$id];
         }
         return $eventsForDay; #okay
     }
