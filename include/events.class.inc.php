@@ -18,6 +18,7 @@ class events {
 
         for($day =0 ; $day<=7; $day++){
             $deals = db::getDealsByDay($day);
+
             foreach($deals as $deal){
                 $id = $deal[0];
                 #$description = $deals[1];

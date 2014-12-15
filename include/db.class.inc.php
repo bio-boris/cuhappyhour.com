@@ -19,6 +19,7 @@ class db{
             $deals = $result = $stmt->fetchAll();
             //foreach deal, get venue;
             //$stmt->close();
+            echo "Returning deal for day $day<br>";
             return $deals;
         }
         catch(PDOException $e)
