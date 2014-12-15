@@ -12,7 +12,7 @@ class db{
     public static function getDealsByDay($day){
         try{
             $dbh = self::getDB();
-            $select = "SELECT * from deals_list where deal_day= :day;)";
+            $select = "SELECT * from deals where deal_day= :day;)";
             $stmt = $dbh->prepare($select);
             $stmt->bindParam(':day', $day);
             $stmt->execute();
