@@ -42,7 +42,9 @@ class events {
                 continue;
             }
 
-            print "<br>Day $day now has " . print_r($this->events_today[$day]) . "<br>";
+            print "<br>Day $day now has <br>" ;
+            print_r($this->events_today[$day]) ;
+            print "<br>";
             print "<hr><br>";
 
 
