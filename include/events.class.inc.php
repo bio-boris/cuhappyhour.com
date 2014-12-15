@@ -3,7 +3,7 @@
 class events {
 
     private $events;
-    private $days;
+    private $ids_for_day;
 
     public function populateEvents(){
 
@@ -13,20 +13,19 @@ class events {
         $this->events[] = new event(1,"50c wings @B",0,"Bob");
         $this->events[] = new event(2,"50c wings @C",2,"Boltini");
 
-        $this->days[0] = array(0,1);
-        $this->days[2] = array(2);
+        $this->ids_for_day[0] = array(0,1);
+        $this->ids_for_day[2] = array(2);
 
         for($day =0 ; $day<=7; $day++){
             $deals = db::getDealsByDay($day);
 
-            foreach($deals as $deal){
-                $id = $deal[0];
-                #$description = $deals[1];
-                $name = $deals[1];
-                $venue = $deals[2];
-                print "Creating deal for day $day for id[$id] name[$name] venue[$venue]<br> ";
-                $this->events[] = new event($id,$name,$day,$venue);
-                $this->days[$day][] = $id;
+            foreach($deals as $sql_row){
+                if(!isset($sql_rowl)){
+                    continue;
+                }
+                $id = $sql_row['deal_id'];
+                $this->events[] = createEvent($id,$day,$sql_row);
+                $this->ids_for_day[$day][] = $id;
             }
 
             print "Deals for $day = $deals <br>";
@@ -34,6 +33,27 @@ class events {
         }
 
     }
+
+    public function createEvent($id,$day,$row){
+        $e = new event($id);
+        $e->setID($id);
+        $e->setDay($day);
+
+        if(isset($row['venue_id'])){
+            $e->setVenue($row['venue_id']);
+        }
+        if(isset($row['deal_name'])){
+            $e->setTitle($row['deal_title']);
+        }
+        if(isset($row['deal_description'])){
+            $e->setDescription($row['deal_description']);
+        }
+
+        return $e;
+
+    }
+
+
 
     private function getEventsFromDataBase(){
 
@@ -44,14 +64,14 @@ class events {
 
     public function getEventsForDay($day){
 
-        if(isset($this->days[$day])){
-            $idsForDay = $this->days[$day];
+        if(isset($this->ids_for_day[$day])){
+            $idsForDay = $this->ids_for_day[$day];
         }
         else{
             return;
         }
         $eventsForDay = array();
-        foreach($this->days[$day] as $eventID){
+        foreach($this->ids_for_day[$day] as $eventID){
             $eventsForDay[] = $this->events[$eventID];
         }
         return $eventsForDay; #okay
@@ -60,24 +80,8 @@ class events {
 
 class event {
 
-    function __construct($id,$name,$day,$venue){
-        $this->createEvent($id,$name,$day,$venue);
-    }
-
-
-    public function createEvent($id,$name=null,$day=null,$venue=null)
-    {
+    function __construct($id){
         $this->setId($id);
-
-        if(isset($day)) {
-            $this->setDay($day);
-        }
-        if(isset($title)){
-            $this->setTitle($name);
-        }
-        if(isset($venue)) {
-            $this->setVenue($venue);
-        }
     }
 
 
