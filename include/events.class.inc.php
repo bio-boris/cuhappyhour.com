@@ -7,10 +7,10 @@ class events {
     private $events_today; #array of ids for a given day
 
     public function populateEvents(){
-     #   $this->events_today = array();
-   #     for($day =0 ; $day<7; $day++){
-   #         $this->events_today[$day] = array();
-   #     }
+        $this->events_today = array();
+        for($day =0 ; $day<7; $day++){
+            $this->events_today[$day] = array();
+        }
 
         for($day =0 ; $day<7; $day++){
             print "Deals for $day <br>";
