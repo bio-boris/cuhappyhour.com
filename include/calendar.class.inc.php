@@ -73,7 +73,7 @@ class calendar{
             return "<td></td>";
         }
         foreach($todaysEvents as $event) {
-            if( get_class($event) == "event"){
+            if(!is_array($event) && get_class($event) == "event"){
                 $html .= "Event" . $this->createEventHTML($event);
             }
         }
