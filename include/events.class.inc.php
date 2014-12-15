@@ -78,13 +78,11 @@ class events {
 
 
     public function getEventsForDay($day){
-        $idsForDay =  array();
-        if(isset($this->ids_for_day[$day])){
-            $idsForDay = $this->ids_for_day[$day];
-        }
-        else{
+
+        if(!isset($this->ids_for_day[$day])){
             return null;
         }
+
         $eventsForDay = array();
         foreach($this->ids_for_day[$day] as $key=>$value){
             $eventsForDay[] = $this->events[$key];

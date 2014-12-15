@@ -60,6 +60,7 @@ class calendar{
 	private function retrieveEvents(){
 		$html= "";
 		foreach(range(0,6) as $day){
+            print "Creating html for day $day<br>";
 			$html .= $this->createDayHTML($day);
 		}
 		return "<tr>$html</tr>";
