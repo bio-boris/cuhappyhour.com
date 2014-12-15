@@ -2,6 +2,7 @@
 
 class events {
 
+    private $venue;
     private $events;
     private $ids_for_day;
 
@@ -9,16 +10,14 @@ class events {
 
         //$rows = getEventsFromDataBase();
         //Foreach database row
-        $this->events[] = new event(0,"25c wings @A",0,"BUffalo");
-        $this->events[] = new event(1,"50c wings @B",0,"Bob");
-        $this->events[] = new event(2,"50c wings @C",2,"Boltini");
-
-        $this->ids_for_day[0] = array(0,1);
-        $this->ids_for_day[2] = array(2);
+        #  $this->events[] = new event(0,"25c wings @A",0,"BUffalo");
+        #  $this->events[] = new event(1,"50c wings @B",0,"Bob");
+        #  $this->events[] = new event(2,"50c wings @C",2,"Boltini");
+        #  $this->ids_for_day[0] = array(0,1);#
+        #  $this->ids_for_day[2] = array(2);
 
         for($day =0 ; $day<=7; $day++){
             $deals = db::getDealsByDay($day);
-
             foreach($deals as $sql_row){
                 if(!isset($sql_row)){
                     continue;
@@ -43,7 +42,7 @@ class events {
             $e->setVenue($row['venue_id']);
         }
         if(isset($row['deal_name'])){
-            $e->setTitle($row['deal_title']);
+            $e->setTitle($row['deal_name']);
         }
         if(isset($row['deal_description'])){
             $e->setDescription($row['deal_description']);
@@ -222,12 +221,7 @@ class event {
     private $tags;
     private $description;
     private $type;
-
-
-
-
 }
-
 
 
 
