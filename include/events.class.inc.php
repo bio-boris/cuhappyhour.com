@@ -29,7 +29,7 @@ class events {
                 $e= $this->createEvent($id,$day,$sql_row);
                 $events[] = $e;
                 $ids[] = $id;
-                print "Added $id to events. events now has" . print_r($this->$events) . "<br>";
+                print "Added $id to events. events now has" . print_r($events) . "<br>";
                 print "Added $id to events for day $day. Day now has " . print_r($ids) . "<br>";
             }
 
