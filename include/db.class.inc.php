@@ -18,7 +18,7 @@ class db{
             $stmt->execute();
             $deals = $result = $stmt->fetchAll();
             //foreach deal, get venue;
-            $stmt->close();
+            //$stmt->close();
             return $deals;
         }
         catch(PDOException $e)
