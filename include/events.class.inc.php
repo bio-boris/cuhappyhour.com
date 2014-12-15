@@ -16,14 +16,15 @@ class events {
         #  $this->ids_for_day[0] = array(0,1);#
         #  $this->ids_for_day[2] = array(2);
 
-        for($day =0 ; $day<=7; $day++){
+        for($day =0 ; $day<7; $day++){
             $deals = db::getDealsByDay($day);
             foreach($deals as $sql_row){
                 if(!isset($sql_row)){
                     continue;
                 }
                 $id = $sql_row['deal_id'];
-                $this->events[] = $this->createEvent($id,$day,$sql_row);
+                $e= $this->createEvent($id,$day,$sql_row);
+                $this->events[] = $e;
                 $this->ids_for_day[$day][] = $id;
             }
 
@@ -33,13 +34,13 @@ class events {
 
     }
 
-    public function createEvent($id,$day,$row){
+    private function createEvent($id,$day,$row){
         $e = new event($id);
         $e->setID($id);
         $e->setDay($day);
 
         if(isset($row['venue_id'])){
-            $e->setVenue($row['venue_id']);
+            $e->setVenue($this->getVenueById($row['venue_id']));
         }
         if(isset($row['deal_name'])){
             $e->setTitle($row['deal_name']);
@@ -53,6 +54,9 @@ class events {
 
     }
 
+    private function getVenueById($id){
+        return db::getVenueById($id);
+    }
 
 
     private function getEventsFromDataBase(){

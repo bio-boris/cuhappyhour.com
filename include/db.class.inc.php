@@ -28,8 +28,20 @@ class db{
         }
     }
 
-    private static function getVenuesByID($venue_id){
-
+    public static function getVenueByID($venue_id){
+        try{
+            $dbh = self::getDB();
+            $select = "SELECT venue_name from venues where venue_id= :id; )";
+            $stmt = $dbh->prepare($select);
+            $stmt->bindParam(':venue_id', $venue_id);
+            $stmt->execute();
+            $result = $stmt->fetchAll();
+            return $result[0]['venue_name'];
+        }
+        catch(PDOException $e)
+        {
+            echo $e->getMessage();
+        }
     }
 
 
