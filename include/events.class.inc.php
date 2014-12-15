@@ -78,7 +78,7 @@ class events {
 
 
     public function getEventsForDay($day){
-
+        $idsForDay =  array();
         if(isset($this->ids_for_day[$day])){
             $idsForDay = $this->ids_for_day[$day];
         }
