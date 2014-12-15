@@ -29,7 +29,7 @@ class events {
                 $e= $this->createEvent($id,$day,$sql_row);
                 $events[] = $e;
                 $ids[] = $id;
-        #        print "Added $id to events. events now has" . print_r($events) . "<br>";
+
                print "Added id[$id] to events for day $day <br>";
             }
 
@@ -86,8 +86,8 @@ class events {
             return null;
         }
         $eventsForDay = array();
-        foreach($this->ids_for_day[$day] as $eventID){
-            $eventsForDay[] = $this->events[$eventID];
+        foreach($this->ids_for_day[$day] as $key=>$value){
+            $eventsForDay[] = $this->events[$key];
         }
         return $eventsForDay; #okay
     }
