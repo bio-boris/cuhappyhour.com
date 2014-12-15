@@ -19,6 +19,7 @@ class events {
         for($day =0 ; $day<7; $day++){
             print "Deals for $day <br>";
             $deals = db::getDealsByDay($day);
+            $ids = array();
             foreach($deals as $sql_row){
                 if(!isset($sql_row)){
                     continue;
@@ -26,13 +27,13 @@ class events {
                 $id = $sql_row['deal_id'];
                 $e= $this->createEvent($id,$day,$sql_row);
                 $this->events[] = $e;
-                $this->ids_for_day[$day][] = $id;
-
+                $ids[] = $id;
                 print "Added $id to events. events now has" . print_r($this->$events) . "<br>";
-                print "Added $id to events at day $day. days now has " . print_r($this->ids_for_day[$day]) . "<br>";
-
-
+                print "Added $id to events for day $day. Day now has " . print_r($ids) . "<br>";
             }
+
+            $ids_for_day[$day] = $ids;
+            print "<br>Day now has " . print_r($ids) . "<br>";
             print "<hr><br>";
 
 
