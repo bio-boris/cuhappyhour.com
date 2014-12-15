@@ -30,7 +30,7 @@ class events {
                 $events[] = $e;
                 $ids[] = $id;
         #        print "Added $id to events. events now has" . print_r($events) . "<br>";
-        #        print "Added $id to events for day $day. Day now has " . print_r($ids) . "<br>";
+               print "Added id[$id] to events for day $day <br>";
             }
 
             $this->events[] = $events;
