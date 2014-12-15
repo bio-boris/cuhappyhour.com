@@ -34,7 +34,7 @@ class events {
             }
 
             $this->events[] = $events;
-            $this->ids_for_day[$day] = $ids;
+            $this->ids_for_day[] = $ids;
             print "<br>Day $day now has " . print_r($ids) . "<br>";
             print "<hr><br>";
 
