@@ -7,10 +7,10 @@ class events {
     private $events_today; #array of ids for a given day
 
     public function populateEvents(){
-        $this->events_today = array();
-        for($day =0 ; $day<7; $day++){
-            $this->events_today[$day] = array();
-        }
+     #   $this->events_today = array();
+   #     for($day =0 ; $day<7; $day++){
+   #         $this->events_today[$day] = array();
+   #     }
 
         for($day =0 ; $day<7; $day++){
             print "Deals for $day <br>";
@@ -48,8 +48,11 @@ class events {
     }
 
     private function getVenueById($id){
-        return "default";
-        return db::getVenueById($id);
+        $venue = db::getVenueById($id);
+        if(isset($venue)){
+            return $venue;
+        }
+        return "Unknown Location";
     }
 
 
