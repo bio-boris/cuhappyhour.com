@@ -21,7 +21,7 @@ class events {
                     continue;
                 }
                 $id = $sql_row['deal_id'];
-                $this->events[$id] = createEvent($id,$day,$sql_row);
+                $this->events[$id] = $this->createEvent($id,$day,$sql_row);
                 array_push($this->events_today[$day],$id);
             }
         }
