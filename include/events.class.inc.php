@@ -13,7 +13,7 @@ class events {
         }
 
         for($day =0 ; $day<7; $day++){
-            print "Deals for $day <br>";
+        #    print "Deals for $day <br>";
             $deals = db::getDealsByDay($day);
             $events = array();
             foreach($deals as $sql_row){
@@ -42,7 +42,7 @@ class events {
             $e->setDescription($row['deal_description']);
         }
 
-        print "Created event with id[$id] day[$day] venue[{$row['venue_id']}] name[{$row['deal_name']}]<br>";
+     #   print "Created event with id[$id] day[$day] venue[{$row['venue_id']}] name[{$row['deal_name']}]<br>";
         return $e;
 
     }

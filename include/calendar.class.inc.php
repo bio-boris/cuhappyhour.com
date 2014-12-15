@@ -37,10 +37,8 @@ class calendar{
 			$table .= "<th>" . ucfirst($this->days[$day]) . "</th>"; 
 		}
 		$table .= "</tr>";
-		
+
 		$table.= $this->getEventsHTML();
-		
-		
 		$table .= "</table>";
 		$this->table = $table;
 		
@@ -51,17 +49,13 @@ class calendar{
 		$this->E = new events();
 		$this->E->populateEvents();
 		return $this->retrieveEvents();
-		
 	}
 	
-	
 
-	
 	private function retrieveEvents(){
 		$html= "";
 		foreach(range(0,6) as $day){
-            print "Creating html for day $day<br>";
-			$html .= $this->createDayHTML($day);
+        	$html .= $this->createDayHTML($day);
 		}
 		return "<tr>$html</tr>";
 	}
@@ -70,8 +64,7 @@ class calendar{
 	private function createDayHTML($day){
 		$todaysEvents = $this->E->getEventsForDay($day);
 		$html = "";
-
-        for($i =0; $i< count($todaysEvents); $i++){
+      for($i =0; $i< count($todaysEvents); $i++){
             $event = $todaysEvents[$i];
             if(get_class($event) == "event"){
                 $html .= "Event" . $this->createEventHTML($event);
@@ -85,9 +78,7 @@ class calendar{
 		    $venue_name = $event->getVenue();
 			$title = $event->getTitle();
 			$html = "<span>{$title} @ {$venue_name}</span><br><br>";
-
 			return $html;
-			
 	}
 
 
