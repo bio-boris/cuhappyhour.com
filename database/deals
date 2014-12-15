@@ -1,0 +1,42 @@
+create table deals(
+deal_id INTEGER PRIMARY KEY AUTOINCREMENT,
+venue_id INTEGER,
+deal_name TEXT,
+deal_day INTEGER,
+deal_start TEXT,
+deal_end TEXT,
+deal_allday TEXT,
+deal_description TEXT,
+dt_id INTEGER,
+)
+
+create table deal_types(
+dt_id INTEGER PRIMARY KEY AUTOINCREMENT,
+dt_category TEXT,
+dt_items TEXT
+)
+
+
+0	1	50% Off All Drinks	3	\N	\N	1	"50% off all beer, wine, liquor, cocktails, you name it!"	0
+
+
+
+1	"Free"		"Drinks"	"All"		
+2	"Free"		"Drinks"	"Beer"
+3	"50% off"	"Food"		"Appetizers"
+4	"50% off"	"Drinks"	"All"
+5	"30¢"	"Food"		"Wings"
+6	"40¢"	"Food"		"Wings"
+7	"50¢"	"Food"		"Wings"
+8	"$1.00"	"Food"		"Tacos"
+
+
+1	Food
+2	Drink
+3	Beer
+4	Wine
+5	Liquor
+6	Mixed Drinks
+7	Beer + Wine
+8	Beer + Liquor
+9

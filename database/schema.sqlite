@@ -1,7 +1,9 @@
 CREATE TABLE venues(
 venue_id INTEGER,
 venue_name TEXT,
+venue_website TEXT,
 venue_address TEXT,
+venye_telephone TEXT,
 venue_geo TEXT, 
 venue_location TEXT);
 
