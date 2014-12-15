@@ -30,7 +30,7 @@ class events {
                 }
                 $id = $sql_row['deal_id'];
                 $e= $this->createEvent($id,$day,$sql_row);
-                $events[] = $e;
+                $events[$id] = $e;
                 array_push($this->events_today[$day], $id);
 
                print "Added id[$id] to events for day $day <br>";
