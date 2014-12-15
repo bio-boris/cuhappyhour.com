@@ -23,6 +23,7 @@ class events {
                 #$description = $deals[1];
                 $name = $deals[1];
                 $venue = $deals[2];
+                print "Creating deal for day $day for id[$id] name[$name] venue[$venue]<br>";
                 $this->events[] = new event($id,$name,$day,$venue);
                 $this->days[$day][] = $id;
             }
@@ -63,11 +64,19 @@ class event {
     }
 
 
-    public function createEvent($id,$name,$day,$venue){
-        $this->setDay($day);
+    public function createEvent($id,$name=null,$day=null,$venue=null)
+    {
         $this->setId($id);
-        $this->setTitle($name);
-        $this->setVenue($venue);
+
+        if(isset($day)) {
+            $this->setDay($day);
+        }
+        if(isset($title)){
+            $this->setTitle($name);
+        }
+        if(isset($venue)) {
+            $this->setVenue($venue);
+        }
     }
 
 
