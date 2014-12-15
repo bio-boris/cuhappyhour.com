@@ -73,7 +73,9 @@ class calendar{
             return "<td></td>";
         }
         foreach($todaysEvents as $event) {
-            $html .= "Event" . $this->createEventHTML($event);
+            if( get_class($event) == "event"){
+                $html .= "Event" . $this->createEventHTML($event);
+            }
         }
 		return "<td>$html</td>";
 	}
