@@ -3,18 +3,10 @@
 class events {
 
     private $venue;
-    private $events;
-    private $events_today;
+    private $events; #Array of event objects
+    private $events_today; #array of ids for a given day
 
     public function populateEvents(){
-
-        //$rows = getEventsFromDataBase();
-        //Foreach database row
-        #  $this->events[] = new event(0,"25c wings @A",0,"BUffalo");
-        #  $this->events[] = new event(1,"50c wings @B",0,"Bob");
-        #  $this->events[] = new event(2,"50c wings @C",2,"Boltini");
-        #  $this->ids_for_day[0] = array(0,1);#
-        #  $this->ids_for_day[2] = array(2);
         $this->events_today = array();
         for($day =0 ; $day<7; $day++){
             $this->events_today[$day] = array();
@@ -29,28 +21,10 @@ class events {
                     continue;
                 }
                 $id = $sql_row['deal_id'];
-                $e= $this->createEvent($id,$day,$sql_row);
-                $events[$id] = $e;
-                array_push($this->events_today[$day], $id);
-
-               print "Added id[$id] to events for day $day <br>";
+                $this->events[$id] = createEvent($id,$day,$sql_row);
+                array_push($this->events_today[$day],$id);
             }
-
-            $this->events[] = $events;
-
-            if(isset($sql_row)){
-                print "<br>Day $day now has <br>" ;
-                print_r($this->events_today[$day]) ;
-                print "<br>";
-                print "<hr><br>";
-            }
-
-
-
-
-
         }
-
     }
 
     private function createEvent($id,$day,$row){
