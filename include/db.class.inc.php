@@ -36,7 +36,7 @@ class db{
             $stmt->bindParam(':venue_id', $venue_id);
             $stmt->execute();
             $result = $stmt->fetchAll();
-            if(defined($result[0]['venue_name'])){
+            if(isset($result[0]['venue_name'])){
                 return $result[0]['venue_name'];
             }
         }

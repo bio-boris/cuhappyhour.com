@@ -74,7 +74,7 @@ class calendar{
 	}
 	
 	private function createEventHTML($event){
-            echo "About to create event html for object type of" . get_class($event) . "<br>";
+      #      echo "About to create event html for object type of" . get_class($event) . "<br>";
 		    $venue_name = $event->getVenue();
 			$title = $event->getTitle();
 			$html = "<span>{$title} @ {$venue_name}</span><br><br>";
