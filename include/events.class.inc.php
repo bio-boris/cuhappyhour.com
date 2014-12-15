@@ -35,8 +35,11 @@ class events {
 
             $this->events[] = $events;
 
+            if(!isset($sql_row)){
+                continue;
+            }
 
-            print "<br>Day $day now has " . print_r($ids) . "<br>";
+            print "<br>Day $day now has " . print_r($ids[$day]) . "<br>";
             print "<hr><br>";
 
 
