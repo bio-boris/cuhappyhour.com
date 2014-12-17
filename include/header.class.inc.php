@@ -16,7 +16,7 @@ class header{
 		</table>
 		";
 
-    private static $logo = "<a href='index.php'><img src='media/logo.png'></a>";
+    private static $logo = "<a href='index.php'><img src='media/logo.png' class='img-responsive'></a>";
 
 
     static function getHeader(){
