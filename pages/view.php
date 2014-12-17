@@ -5,6 +5,10 @@ $rows = db::getAllVenues();
 $html_rows = "";
 
 foreach($rows as $row){
+
+    print_r(array_keys($row));
+    die;
+
     print_r($row);
     print "<br><br>";
     $html_rows .= generateRow($row);
