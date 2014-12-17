@@ -48,7 +48,10 @@ function generateRow($row){
     #}
 
     $colspan = count(array_keys($row));
-    return "<tr>$header</tr><tr>$tds</tr><tr><td colspan='{$colspan}'></td></tr>";
+    return "
+            <tr>$header</tr>
+            <tr>$tds</tr>
+            ";
 
 
 }
