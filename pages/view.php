@@ -5,7 +5,8 @@ $rows = db::getAllVenues();
 $html_rows = "";
 
 foreach($rows as $row){
-
+    print_r($row);
+    print "<br><br>";
     $html_rows .= generateRow($row);
 }
 echo "<table border='1' >$html_rows</table>";
@@ -13,7 +14,7 @@ echo "<table border='1' >$html_rows</table>";
 echo "<submit></submit></form>";
 echo "<br>";
 
-print_r($rows);
+
 
 function generateRow($row)
 {
