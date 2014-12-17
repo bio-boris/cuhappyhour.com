@@ -8,7 +8,7 @@ foreach($rows as $row){
 
     $html_rows .= generateRow($row);
 }
-echo "<table border='1'>$html_rows</table>";
+echo "<table border='1' class='table'>$html_rows</table>";
 
 echo "<submit></submit></form>";
 
@@ -47,7 +47,8 @@ function generateRow($row){
     #    };
     #}
 
-    return "<tr>$header</tr><tr>$tds</tr>";
+    $colspan = count(array_keys($row));
+    return "<tr>$header</tr><tr>$tds</tr><tr><td colspan='{$colspan}'></td></tr>";
 
 
 }
