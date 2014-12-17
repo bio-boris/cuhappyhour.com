@@ -5,19 +5,21 @@
     $html_rows = array();
 
     foreach($rows as $row){
-        $html_rows[] = generateRow($row);
+
+        $html_rows .= generateRow($row);
     }
-    echo "<table>$html_rows</table>";
+    echo "<table border='1'>$html_rows</table>";
 
     echo "</form>";
 
    function generateRow($row){
 
        $tds = "";
+       $header ="";
        foreach($row as $key=>$val){
-
+        $header.="<td>key</td>";
        switch ($row) {
-           case 0:
+           case venue_id:
                echo "i equals 0";
                break;
            case 1:
@@ -31,7 +33,7 @@
 
        }
        }
-       return "<tr>$tds</tr>";
+       return "<tr>$header</tr><tr>$tds</tr>";
 
 
    }
