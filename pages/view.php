@@ -36,11 +36,16 @@ function generateRow($row){
          }
      }
          */
-    for($i =0; $i < count($row); $i++){
-        if(isset($row[$i])){
-            $tds .= "<td>{$row[$i]}</td>";
-        };
+
+    foreach(array_keys($row) as $key){
+        $value = $row[$key];
+        $tds .= "<td>$key<input>$value</input></td>";
+
     }
+    #for($i =0; $i < count($row); $i++){
+    #    if(isset($row[$i])){
+    #    };
+    #}
 
     return "<tr>$header</tr><tr>$tds</tr>";
 
