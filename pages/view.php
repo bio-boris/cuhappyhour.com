@@ -11,6 +11,9 @@ foreach($rows as $row){
 echo "<table border='1' >$html_rows</table>";
 
 echo "<submit></submit></form>";
+echo "<br>";
+
+print_r($rows);
 
 function generateRow($row)
 {
@@ -29,7 +32,7 @@ function generateRow($row)
 
         return "<tr>$header</tr>
                 <tr>$tds</tr>
-            <tr><td colspan='{$colspan}'></td></tr>/tr>";
+            <tr><td colspan='{$colspan}'></td></tr>";
 
 }
 
