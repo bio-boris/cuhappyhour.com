@@ -17,9 +17,9 @@
        $tds = "";
        $header ="";
        foreach($row as $key=>$val){
-        $header.="<td>key</td>";
+        $header.="<td>$key</td>";
        switch ($row) {
-           case venue_id:
+           case "venue_id_2":
                echo "i equals 0";
                break;
            case 1:
