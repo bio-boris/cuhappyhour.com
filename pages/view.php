@@ -1,7 +1,7 @@
 <?php
 
     $venues = db::getAllVenues();
-    foreach($venue as $key->$val){
+    foreach($venues as $key->$val){
         print "$key $val <br>";
     }
 
