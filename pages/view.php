@@ -22,7 +22,7 @@ function generateRow($row)
 
     foreach (array_keys($row) as $key) {
         $value = $row[$key];
-        $tds .= "<td>$key<i value='$value'nput></td>";
+        $tds .= "<td>$key<input value='$value'></td>";
 
 
         $colspan = count(array_keys($row)); #}
