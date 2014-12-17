@@ -16,24 +16,32 @@ function generateRow($row){
 
     $tds = "";
     $header ="";
-    foreach($row as $key=>$val){
-        $header.="<td>$key</td>";
-        switch ($row) {
-            case "venue_id_2":
-                echo "i equals 0";
-                break;
-            case 1:
-                echo "i equals 1";
-                break;
-            case 2:
-                echo "i equals 2";
-                break;
-            default:
-                $tds .= "<td>$val</td>";
-                break;
+    $tds = "";
+    $header ="";
+    /* foreach($row as $key){
+         switch ($row) {
+             case "venue_id_2":
+                 echo "i equals 0";
+                 break;
+             case 1:
+                 echo "i equals 1";
+                 break;
+             case 2:
+                 echo "i equals 2";
+                 break;
+             default:
+                 $tds .= "<td>$key</td>";
+                 break;
 
-        }
+         }
+     }
+         */
+    for($i =0; $i < count($row); $i++){
+        if(isset($row[$i])){
+            $tds .= "<td>{$row[$i]}</td>";
+        };
     }
+
     return "<tr>$header</tr><tr>$tds</tr>";
 
 
