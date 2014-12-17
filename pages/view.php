@@ -10,7 +10,7 @@
     }
     echo "<table border='1'>$html_rows</table>";
 
-    echo "</form>";
+    echo "<submit></submit></form>";
 
    function generateRow($row){
 
@@ -29,7 +29,7 @@
                echo "i equals 2";
                break;
            default:
-               $tds .= "<td>$key and $val</td>";
+               $tds .= "<td>$val</td>";
 
        }
        }
