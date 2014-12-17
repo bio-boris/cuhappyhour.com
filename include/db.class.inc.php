@@ -49,7 +49,7 @@ class db{
     public static function getAllVenues(){
         try{
             $dbh = self::getDB();
-            $select = "SELECT * FROM venues)";
+            $select = "SELECT * FROM venues";
             $stmt = $dbh->prepare($select);
             $stmt->execute();
             $result = $stmt->fetchAll();
@@ -64,7 +64,7 @@ class db{
     public static function getAllDeals(){
         try{
             $dbh = self::getDB();
-            $select = "SELECT * FROM deals)";
+            $select = "SELECT * FROM deals";
             $stmt = $dbh->prepare($select);
             $stmt->execute();
             $result = $stmt->fetchAll();
