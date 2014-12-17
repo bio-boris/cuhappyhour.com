@@ -39,7 +39,7 @@ function generateRow($row){
 
     foreach(array_keys($row) as $key){
         $value = $row[$key];
-        $tds .= "<td>$key<input>$value</input></td>";
+        $tds .= "<td>$key<input value='$value'></td>";
 
     }
     #for($i =0; $i < count($row); $i++){
