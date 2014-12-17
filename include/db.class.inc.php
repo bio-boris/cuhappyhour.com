@@ -46,7 +46,7 @@ class db{
         }
     }
 
-    public static function getVenues($venue_id){
+    public static function getAllVenues(){
         try{
             $dbh = self::getDB();
             $select = "SELECT * FROM venues)";
@@ -60,6 +60,22 @@ class db{
             echo $e->getMessage();
         }
     }
+
+    public static function getAllDeals(){
+        try{
+            $dbh = self::getDB();
+            $select = "SELECT * FROM deals)";
+            $stmt = $dbh->prepare($select);
+            $stmt->execute();
+            $result = $stmt->fetchAll();
+            return $result;
+        }
+        catch(PDOException $e)
+        {
+            echo $e->getMessage();
+        }
+    }
+
 
 
 

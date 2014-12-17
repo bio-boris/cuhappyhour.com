@@ -1,6 +1,9 @@
 <?php
 
-This is the page to view the database;
+    $venues = db::getAllVenues();
+    foreach($venue as $key->$val){
+        print "$key $val <br>";
+    }
 
 
 ?>
