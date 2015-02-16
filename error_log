@@ -1,0 +1,354 @@
+[17-Dec-2014 00:33:23 UTC] PHP Notice:  Undefined variable: venue in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 4
+[17-Dec-2014 00:33:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 4
+[17-Dec-2014 00:33:39 UTC] PHP Notice:  Undefined variable: venue in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 4
+[17-Dec-2014 00:33:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 4
+[17-Dec-2014 00:34:19 UTC] PHP Notice:  Undefined variable: venue in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 4
+[17-Dec-2014 00:34:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 4
+[17-Dec-2014 00:36:21 UTC] PHP Notice:  Undefined variable: val in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 4
+[17-Dec-2014 00:36:21 UTC] PHP Fatal error:  Cannot access empty property in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 4
+[17-Dec-2014 00:41:12 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 6
+[17-Dec-2014 00:55:00 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 7
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:01:01 UTC] PHP Notice:  Use of undefined constant venue_id - assumed 'venue_id' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 22
+[17-Dec-2014 01:06:08 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 16
+[17-Dec-2014 01:06:08 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 16
+[17-Dec-2014 01:06:08 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 16
+[17-Dec-2014 01:06:08 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 16
+[17-Dec-2014 01:06:08 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 16
+[17-Dec-2014 01:06:08 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 16
+[17-Dec-2014 01:06:08 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 16
+[17-Dec-2014 01:06:08 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 16
+[17-Dec-2014 01:06:08 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 16
+[17-Dec-2014 01:06:18 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 17
+[17-Dec-2014 01:06:19 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 17
+[17-Dec-2014 01:06:19 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 17
+[17-Dec-2014 01:06:19 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 17
+[17-Dec-2014 01:06:19 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 17
+[17-Dec-2014 01:06:19 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 17
+[17-Dec-2014 01:06:19 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 17
+[17-Dec-2014 01:06:19 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 17
+[17-Dec-2014 01:06:19 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 17
+[17-Dec-2014 01:06:24 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 17
+[17-Dec-2014 01:06:24 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 17
+[17-Dec-2014 01:06:24 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 17
+[17-Dec-2014 01:06:24 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 17
+[17-Dec-2014 01:06:24 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 17
+[17-Dec-2014 01:06:24 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 17
+[17-Dec-2014 01:06:24 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 17
+[17-Dec-2014 01:06:24 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 17
+[17-Dec-2014 01:06:24 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 17
+[17-Dec-2014 01:06:26 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 17
+[17-Dec-2014 01:06:26 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 17
+[17-Dec-2014 01:06:26 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 17
+[17-Dec-2014 01:06:26 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 17
+[17-Dec-2014 01:06:26 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 17
+[17-Dec-2014 01:06:26 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 17
+[17-Dec-2014 01:06:26 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 17
+[17-Dec-2014 01:06:26 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 17
+[17-Dec-2014 01:06:26 UTC] PHP Notice:  Undefined variable: count in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 17
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Blind Pig Brewery in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Blind Pig Brewery in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: www.blindpigco.com/ in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: www.blindpigco.com/ in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 211 North Neil Street, Champaign, IL 61820 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 211 North Neil Street, Champaign, IL 61820 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: (217) 378-8001 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: (217) 378-8001 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 40.117729,-88.243766 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 40.117729,-88.243766 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Downtown Champaign in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Downtown Champaign in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Radio Maria in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Radio Maria in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: www.radiomariarestaurant.com/ in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: www.radiomariarestaurant.com/ in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 211 North Neil Street, Champaign, IL 61820 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 211 North Neil Street, Champaign, IL 61820 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: (217) 378-8001 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: (217) 378-8001 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 40.117729,-88.243766 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 40.117729,-88.243766 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Downtown Champaign in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Downtown Champaign in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Wedge in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Wedge in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: www.wedgebar.com/ in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: www.wedgebar.com/ in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 211 North Neil Street, Champaign, IL 61820 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 211 North Neil Street, Champaign, IL 61820 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: (217) 378-8001 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: (217) 378-8001 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 40.117729,-88.243766 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 40.117729,-88.243766 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Downtown Champaign in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Downtown Champaign in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Silver Creek in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Silver Creek in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: www.couriersilvercreek.com/silvercreek/ in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: www.couriersilvercreek.com/silvercreek/ in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 211 North Neil Street, Champaign, IL 61820 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 211 North Neil Street, Champaign, IL 61820 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: (217) 378-8001 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: (217) 378-8001 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 40.117729,-88.243766 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 40.117729,-88.243766 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Downtown Urbana in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Downtown Urbana in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Orange and Brew in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Orange and Brew in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: wwww.orangeandbrewchampaign.com/ in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: wwww.orangeandbrewchampaign.com/ in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 211 North Neil Street, Champaign, IL 61820 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 211 North Neil Street, Champaign, IL 61820 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: (217) 378-8001 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: (217) 378-8001 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 40.117729,-88.243766 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 40.117729,-88.243766 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Champaign in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Champaign in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Houlihan's in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Houlihan's in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: www.houlihans.com/my-houlihans/champaign in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: www.houlihans.com/my-houlihans/champaign in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 211 North Neil Street, Champaign, IL 61820 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 211 North Neil Street, Champaign, IL 61820 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: (217) 378-8001 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: (217) 378-8001 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 40.117729,-88.243766 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 40.117729,-88.243766 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Champaign in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Champaign in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 7 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 7 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Big Grove Tavern in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Big Grove Tavern in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: www.biggrovetavern.com/ in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: www.biggrovetavern.com/ in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 211 North Neil Street, Champaign, IL 61820 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 211 North Neil Street, Champaign, IL 61820 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: (217) 378-8001 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: (217) 378-8001 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 40.117729,-88.243766 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 40.117729,-88.243766 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Downtown Champaign in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Downtown Champaign in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 8 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 8 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Jupiter's Pizza  in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Jupiter's Pizza  in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: www.jupiterspizza.com/ in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: www.jupiterspizza.com/ in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 211 North Neil Street, Champaign, IL 61820 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 211 North Neil Street, Champaign, IL 61820 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: (217) 378-8001 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: (217) 378-8001 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 40.117729,-88.243766 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 40.117729,-88.243766 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Downtown Champaign in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Downtown Champaign in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 9 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 9 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Boltini Lounge in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Boltini Lounge in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: www.boltinilounge.com/ in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: www.boltinilounge.com/ in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 211 North Neil Street, Champaign, IL 61820 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 211 North Neil Street, Champaign, IL 61820 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: (217) 378-8001 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: (217) 378-8001 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 40.117729,-88.243766 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: 40.117729,-88.243766 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Downtown Champaign in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:11:00 UTC] PHP Notice:  Undefined index: Downtown Champaign in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 20
+[17-Dec-2014 01:14:19 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ';' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 37
+[17-Dec-2014 01:14:39 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ']' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 7 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 8 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 9 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 10 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 11 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 12 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 13 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 7 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 8 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 9 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 10 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 11 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 12 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 13 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 7 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 8 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 9 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 10 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 11 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 12 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 13 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 7 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 8 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 9 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 10 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 11 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 12 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 13 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 7 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 8 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 9 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 10 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 11 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 12 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 13 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 7 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 8 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 9 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 10 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 11 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 12 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 13 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 7 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 8 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 9 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 10 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 11 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 12 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 13 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 7 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 8 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 9 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 10 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 11 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 12 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 13 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 7 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 8 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 9 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 10 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 11 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 12 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:14:54 UTC] PHP Notice:  Undefined offset: 13 in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:15:37 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 38
+[17-Dec-2014 01:15:46 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 40
+[17-Dec-2014 01:28:32 UTC] PHP Parse error:  syntax error, unexpected $end in /home/bsadkhin/public_html/cuhappyhour.com/pages/view.php on line 40
