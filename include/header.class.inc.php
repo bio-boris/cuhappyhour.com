@@ -10,8 +10,8 @@ class header{
 		<!--	<td><a href='?p=reviews'>Reviews</a></td> -->
 		<!--	<td><a href='index.php?p=events'>Events</a></td> -->
 			<td><a href='index.php?p=about'>About Us</a></td>
-			<td><a href='index.php?p=submit_deal'>Submit a deal!</a></td>
-			<td><a href='index.php?p=admin_edit_deal'>Admin: Edit Deal / Venue!</a></td>
+			<td><a href='index.php?p=add'>Submit a deal!</a></td>
+			<td><a href='index.php?p=modify'>Admin: Edit Deal / Venue!</a></td>
 		</tr>
 		</table>
 		";
